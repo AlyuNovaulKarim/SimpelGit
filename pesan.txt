@@ -1,0 +1,2 @@
+ini adalah file pesan di dalam 2ndbranch pesan ini hanya untuk ditulis,
+dibaca
